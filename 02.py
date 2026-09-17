@@ -1,0 +1,6 @@
+A=int("請輸入一個整數: ")
+B=int("請輸入一個整數: ")
+C=int("請輸入一個整數: ")
+print("AA")
+print("BBBB")
+print("CCCCCC")
